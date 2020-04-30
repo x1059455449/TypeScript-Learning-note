@@ -18,7 +18,7 @@ npm install ts-node@7.0.0 -g
 
 1.创建文件夹 tsdemo
 
-2。用 vscode 打开 tsdemo 目录
+2.用 vscode 打开 tsdemo 目录
 
 3.创建 tsdemo/1.ts 作为我们的第一个 TS 文件
 
